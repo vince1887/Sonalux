@@ -1,6 +1,10 @@
 # Sonalux
 # Prototype de visuel interactif
 ## Exploration de touch designer
+J'ai beaucoup explorer les visuels génératifs et interactif/reactifs
+
+- par example ce patch touchdesigner qui utilise du noise et du feedback pour créer un visuels qui se génère et réagie a de l'audio
+  [![thumbnail video generatif audio react](https://img.youtube.com/vi/jEneayx-0J8/0.jpg)](https://youtu.be/jEneayx-0J8)
 ## Exploration de la kinect
 J'ai exploré deux méthodes pour utilisé la kinect dans TouchDesigner.
 - la première est avec le flux "vidéo" de la kinect. je met des guillemet, car le flux video n'est pas nécéssairement une caméra rgb. Elle peut aussi être une caméra de depth, donc elle permet de séparer le flux vidéo en trois plane(foreground, middleground, background) pour cette méthode on doit utiliser des opérateurs de textures dans ToucDesigner (TOP)
