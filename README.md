@@ -1,5 +1,5 @@
 # Sonalux
-# Prototype de visuel interactif
+# Prototype de visuel interactif (Vincent)
 ## Exploration de touch designer
 - Ce patch touchdesigner qui utilise du noise et du feedback pour créer un visuels qui se génère et réagie a de l'audio
   [![thumbnail video generatif audio react](https://img.youtube.com/vi/jEneayx-0J8/0.jpg)](https://youtu.be/jEneayx-0J8)
