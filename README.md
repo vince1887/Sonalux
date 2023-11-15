@@ -7,7 +7,7 @@ J'ai exploré deux méthodes pour utilisé la kinect dans TouchDesigner.
 ![images des top nécéssaire pour la kinect en top](/images/kinect_top.JPG)
 - la deuxième est avec les données de la kinect. C'est données ressemble à des messages OSC. Donc on recoit tous les point du squelettes/rigs et leur position en x,y,z de chaque intéracteurs (jusqu'à 4 personnes). Pour cette méthode on doit utiliser des Channel opérator (Chop) ce type d'opérateur se traitre un peut comme du son.
 ![images de l'opérateur chop de la kinect](/images/kinect_chop-1.jpg)
-![images de l'opérateur chop de la kinect](/images/kinect_chop-2.JPG)
+![images de l'opérateur chop de la kinect](/images/kinect_chop-2.jpg)
 ![images de l'opérateur chop de la kinect](/images/kinect_chop_rig.JPG)
 ## Prototype
 ### Prototype avec le flux "video" de la kinect (top)
