@@ -18,3 +18,5 @@ J'ai exploré deux méthodes pour utilisé la kinect dans TouchDesigner.
 [![Thumbnail video Kinect et touchdesigner](https://img.youtube.com/vi/ES2N6omMyHc/0.jpg)](https://youtu.be/ES2N6omMyHc)
 ### Prototype avec le flux de donné de la kinect (chop)
 [![Thumbnail video Kinect et touchdesigner](https://img.youtube.com/vi/ezuy2fvP3yk/0.jpg)](https://youtu.be/ezuy2fvP3yk)
+### Prototype déploiement avec un projecteur et une kinect
+[![thumbnail video déploiement](https://img.youtube.com/vi/e1h0qx9sK4E/0.jpg)](https://youtu.be/e1h0qx9sK4E)
