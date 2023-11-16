@@ -1,5 +1,5 @@
 # Prototype de visuel interactif (Vincent)
-je voulais isoler la partie visuel/projection du projet et de son interactivité, donc faire abstraction du mapping multi-projecteur et du son.
+je voulais isoler la partie visuel/projection du projet et de son interactivité via la kinect, donc faire abstraction du mapping multi-projecteur et du son.
 ## Exploration de touch designer
 - Ce patch touchdesigner qui utilise du noise et du feedback pour créer un visuels qui se génère et réagie a de l'audio
   [![thumbnail video generatif audio react](https://img.youtube.com/vi/jEneayx-0J8/0.jpg)](https://youtu.be/jEneayx-0J8)
