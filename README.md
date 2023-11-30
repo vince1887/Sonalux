@@ -41,11 +41,11 @@ Le public est appelé à découvrir les différents chapitres du projet.
 ## Moodboard
 > ![moodboard_ambiance](https://github.com/vince1887/Sonalux/assets/93718179/e7e38875-cabb-405f-8eb0-8fb7119f1d56)
 
-> Exemple d'art générative avec TouchDesigner [Exemple d'art générative](https://www.youtube.com/watch?v=lHsF-DKJZYc)
+> [Exemple d'art générative avec TouchDesigner](https://www.youtube.com/watch?v=lHsF-DKJZYc)
 
-> L'improvisation de l'eau avec TouchDesigner [Improvisation de l'eau](https://www.youtube.com/watch?v=SbYtIiZdrew&t=1s)
+> [L'improvisation de l'eau avec TouchDesigner](https://www.youtube.com/watch?v=SbYtIiZdrew&t=1s)
 
-> Exemple d'art générative avec des particules dans TouchDesigner [Exemple d'art générative avec particules(https://www.youtube.com/watch?v=3snFQtLRJqs&t=2s)
+> [Exemple d'art générative avec des particules dans TouchDesigner](https://www.youtube.com/watch?v=3snFQtLRJqs&t=2s)
 >
  
 ## Scénario, scénarimage ou document audio/visuel
