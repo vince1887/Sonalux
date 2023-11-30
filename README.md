@@ -39,8 +39,7 @@ Par ce projet, nous souhaitons pousser l'intéracteur à lâcher prise en créan
 
 ## Synopsis
 Sonalux est une expérience divisée en 3 chapitres qui se distinguent par leur intensité graduelle. Chaque chapitre comportera différents éléments sonores et visuels accompagnés d'une introduction au tout début.  
-
-Le public est appelé à découvrir le mystère entourant cette difficile séparation.
+Le public est appelé à découvrir les différents chapitres du projet.
 
 ## Tableau d'ambiance (*moodboard*)
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
