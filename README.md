@@ -46,7 +46,8 @@ Le public est appelé à découvrir les différents chapitres du projet.
 > [L'improvisation de l'eau avec TouchDesigner](https://www.youtube.com/watch?v=SbYtIiZdrew&t=1s)
 
 > [Exemple d'art générative avec des particules dans TouchDesigner](https://www.youtube.com/watch?v=3snFQtLRJqs&t=2s)
->
+
+> [Site de Maff](https://www.maff.tv/watch/infinity-room)
  
 ## Scénario, scénarimage ou document audio/visuel
 [Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
