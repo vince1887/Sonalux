@@ -131,11 +131,10 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
 * Grand studio
-    * Projection vidéo dans le cyclo
-    * Capatation vidéo
+    * Rétroprojection vidéo dans le grand studio
 
 * Petit studio
-    * Enregsitrement audio
+    * Enregsitrement audio de la naration
 
 ## Contraintes techniques et potentiels problèmes de production
 > Tableau ou lien vers un tableur Excel (contraintes, problème et solution envisagée, commentaires...)
