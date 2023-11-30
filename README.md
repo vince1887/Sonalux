@@ -79,8 +79,6 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ## Matériel de scénographie requis
 
-> Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
-
 * 4 toiles pour rétroprojection
 * systeme d'accrochage au sol pour subdiviser l'endroit de déploiement/faux mur en toile
 
@@ -117,11 +115,11 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
 
-* [nodeJS 14.15.4 LTS](https://nodejs.org/en/) 
-    * [node-osc](https://github.com/MylesBorins/node-osc)
-* [Max 8](https://cycling74.com/products/max)   
-* [Unity 2019 lts](https://unity.com/)
-* [Open stage control](https://openstagecontrol.ammd.net/)
+* [TouchDesigner](https://derivative.ca/UserGuide/TouchDesigner)
+* [VCV Rack](https://vcvrack.com/)
+* [Arduino IDE](https://www.arduino.cc/en/software)
+      *[library atom lite m5 stack](https://www.arduino.cc/en/software)
+
 
 ## Ressources humaines requises
 > Formaté en liste ou en lien vers un tableur Excel.
