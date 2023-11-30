@@ -94,12 +94,10 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * 4 haut-parleurs actifs de 4"
     * 4 fils XLR 3 conducteurs de 15' (M->F)
     * Interface audio USB disposant 8 sorties et au moins 1 entrée
-    * 
 
 * Vidéo
     * 5 projecteurs vidéo lentille standard
     * Kinect v1
-    * 
 
 * Lumière
     * 8 tubes leds
