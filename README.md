@@ -84,32 +84,28 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
-* Divan Louis XIV
-    * Couleur rouge
-    * 12' x 4' x 3'
-* Cyclorama
+* 4 toiles pour rétroprojection
+* systeme d'accrochage au sol pour subdiviser l'endroit de déploiement/faux mur en toile
 
 ## Équipements requis
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * 8 haut-parleurs actifs de 4"
-    * 8 fils XLR 3 conducteurs de 15' (M->F)
-    * Interface audio USB disposant 8 sorties 
+    * 4 haut-parleurs actifs de 4"
+    * 4 fils XLR 3 conducteurs de 15' (M->F)
+    * Interface audio USB disposant 8 sorties et au moins 1 entrée
+    * 
 
 * Vidéo
-    * 2 projecteurs vidéo lentille standard
-    * 2 système d'acrochage
-    * 3 webcam logitech c920
+    * 5 projecteurs vidéo lentille standard
+    * Kinect v1
+    * 
 
 * Lumière
-    * 4 lumière LED RGBAW DMX
-    * 4 fils XLR 3 conducteurs de 20'
-    * Console DMX
-    * Interface DMX USB
+    * 8 tubes leds
 
 * Électricité
-    * 8 cordon IEC (pour l'alimentation des haut-parleurs)
+    * 4 cordon IEC (pour l'alimentation des haut-parleurs)
     * 2 extentions 3 fiches et 3 conducteurs 
     * 2 multiprise
 
@@ -121,7 +117,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * 1 ordinateur portable 
     
 * Autre
-    * Tout autre élément pertinent
+    * boite sonore (à créer)
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
