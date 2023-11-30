@@ -66,7 +66,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
-> Insérer plans, documents et schémas pertinents dans cette sectio.  
+> Insérer plans, documents et schémas pertinents dans cette section.  
 
 ### Plantation 
 
@@ -79,7 +79,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 ## Matériel de scénographie requis
 
 * 4 toiles pour rétroprojection
-* systeme d'accrochage au sol pour subdiviser l'endroit de déploiement/faux mur en toile
+* Système d'accrochage au sol pour subdiviser l'endroit de déploiement/faux mur en toile
 
 ## Équipements requis
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
