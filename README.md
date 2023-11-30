@@ -118,7 +118,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * [TouchDesigner](https://derivative.ca/UserGuide/TouchDesigner)
 * [VCV Rack](https://vcvrack.com/)
 * [Arduino IDE](https://www.arduino.cc/en/software)
-* [library atom lite m5 stack](https://www.arduino.cc/en/software)
+*      [library atom lite m5 stack](https://www.arduino.cc/en/software)
 
 
 ## Ressources humaines requises
