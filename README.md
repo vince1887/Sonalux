@@ -38,7 +38,7 @@
 Par ce projet, nous souhaitons pousser l'intéracteur à lâcher prise en créant soi-même un environnement immersif.
 
 ## Synopsis
-Laurence et Simone demeurent ensemble et s’aiment. Un événement tragique vient bouleverser leur vie de couple. Incapable de se comprendre, ils finissent par se séparer. 
+Sonalux est une expérience divisée en 3 chapitres qui se distinguent par leur intensité graduelle. Chaque chapitre comportera différents éléments sonores et visuels accompagnés d'une introduction au tout début.  
 
 Le public est appelé à découvrir le mystère entourant cette difficile séparation.
 
