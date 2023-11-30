@@ -42,7 +42,7 @@ Sonalux est une expérience divisée en 3 chapitres qui se distinguent par leur 
 Le public est appelé à découvrir les différents chapitres du projet.
 
 ## Tableau d'ambiance (*moodboard*)
-> Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
+> ![moodboard_ambiance](https://github.com/vince1887/Sonalux/assets/93718179/e7e38875-cabb-405f-8eb0-8fb7119f1d56)
 
 > Insérez directement des captures d'écran et liens vers des médias ici.
 
