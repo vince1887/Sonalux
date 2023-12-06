@@ -45,9 +45,6 @@ Le public est appelé à découvrir les différents chapitres du projet.
 > [Exemple d'art générative avec des particules dans TouchDesigner](https://www.youtube.com/watch?v=3snFQtLRJqs&t=2s)
 
 > [Site de Maff](https://www.maff.tv/watch/infinity-room)
- 
-## Scénario, scénarimage ou document audio/visuel
-[Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
@@ -59,7 +56,6 @@ Le public est appelé à découvrir les différents chapitres du projet.
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
-> Insérer plans, documents et schémas pertinents dans cette section.  
 
 ### Plantation 
 
@@ -75,7 +71,6 @@ Le public est appelé à découvrir les différents chapitres du projet.
 * Système d'accrochage au sol pour subdiviser l'endroit de déploiement/faux mur en toile
 
 ## Équipements requis
-> Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
     * 4 haut-parleurs actifs de 4"
@@ -105,11 +100,11 @@ Le public est appelé à découvrir les différents chapitres du projet.
     * boite sonore (à créer)
 
 ## Logiciels requis
-> Liste des logiciels requis, version ainsi que leurs dépendences
 
 * [TouchDesigner](https://derivative.ca/UserGuide/TouchDesigner)
 * [VCV Rack](https://vcvrack.com/)
-* [Arduino IDE](https://www.arduino.cc/en/software) 
+* [Arduino IDE](https://www.arduino.cc/en/software)
+* [Kinect v1.8 studio](https://www.microsoft.com/en-us/download/details.aspx?id=40278)
 
 
 ## Ressources humaines requises
