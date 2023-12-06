@@ -139,11 +139,6 @@ Le public est appelé à découvrir les différents chapitres du projet.
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
 https://github.com/tim-montmorency/66B-modele_de_projet/milestones
 
-*Dates importantes :*
-- Première itération : lundi x novembre
-- Prototype finale : lundi x décembre
-- Présentation des projets devant public : jeudi 25 mars (soir)
-
 ## Liste des tâches à réaliser
 Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?add_cards_query=is%3Aopen
@@ -153,7 +148,7 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues
 
 ## Rôles et responsabilités des membres de l'équipe
 
-**Étudiant E**
+**Vincent Desjardins**
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
 - Création du module d'interprétation des données;
 - Programmation du module Max de contrôle vidéo.
@@ -162,7 +157,7 @@ Liste des tâches dans Git Hub:
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
 
-**Étudiant D**
+**Camélie Laprise**
 - Comité Technique et coordination technique (suivi du devis technique);
 - Création des paysages sonores sonores;
 - Programmation du module Max d'effet et de contrôle audio;
@@ -172,7 +167,7 @@ Liste des tâches dans Git Hub:
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
 
-**Étudiant C**
+**Ghita Alaoui**
 - Installation et mise en place de la capture audiovidéo du projet en temps réel;
 - Programmation du module de captation des données;
 - Programmation du module de diffusion et d'interaction en ligne (page Web, diffusion vidéo dans Twitch via OBS, interface utilisateur dans Open Stage Control).
@@ -181,7 +176,7 @@ Liste des tâches dans Git Hub:
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
 
-**Étudiant B**
+**Antoine Haddad**
 - Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
 - Création des textes poétiques;
 - Création des vidéos d'animation 2D;
@@ -191,11 +186,6 @@ Liste des tâches dans Git Hub:
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
 
-**Étudiant A**
-- Création des images;
-- Création des icônes de navigation;
-- Programmation du module Max d'éclairage;
-- Programmation du module Max de contrôle de la navigation utilisateur & des différents sous-modules.
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
@@ -206,7 +196,5 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3A
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
-- **"y" jour "x"h (1h-2h)** : Rencontre de suivi de projet.
+- lundi à 12h (1h-2h) : Rencontre de suivi de projet.
 
-Autre: 
-- **"y" jour "x"h (1h-2h)** : Rencontre de suivi de projet.
