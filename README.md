@@ -149,18 +149,19 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues
 ## Rôles et responsabilités des membres de l'équipe
 
 **Vincent Desjardins**
-- Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
-- Création du module d'interprétation des données;
-- Programmation du module Max de contrôle vidéo.
+- Coordination technique et artistique du projet
+- Création du module d'interprétation des données (Kinect)
+- Programmation du patch touchdesigner de génération vidéo.
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
 
 **Camélie Laprise**
-- Comité Technique et coordination technique (suivi du devis technique);
-- Création des paysages sonores sonores;
-- Programmation du module Max d'effet et de contrôle audio;
+
+- Coordination technique du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe)
+- Création des paysages sonores sonores
+- Programmation du module Max d'effet et de contrôle audio
 - Installation de l'équipement dans l'espace physique.
 
 Liste des tâches dans Git Hub:  
@@ -168,19 +169,15 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
 
 **Ghita Alaoui**
-- Installation et mise en place de la capture audiovidéo du projet en temps réel;
-- Programmation du module de captation des données;
-- Programmation du module de diffusion et d'interaction en ligne (page Web, diffusion vidéo dans Twitch via OBS, interface utilisateur dans Open Stage Control).
+- 
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
 
 **Antoine Haddad**
-- Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
-- Création des textes poétiques;
-- Création des vidéos d'animation 2D;
-- Programmation du module Unity d'effets visuels et intégration dans Max.
+- Installation de l'équipement dans l'espace physique
+- Coordination des projections/projecteurs
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
