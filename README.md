@@ -63,7 +63,7 @@ Le public est appelé à découvrir les différents chapitres du projet.
 
 ### Plantation 
 
-![exemple de plantation](medias/o3_plantation.svg)
+![exemple de plantation](images/schema_bvranchemant.png)
 
 ### Schéma de branchement 
 
