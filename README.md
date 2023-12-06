@@ -67,7 +67,7 @@ Le public est appelé à découvrir les différents chapitres du projet.
 
 ### Schéma de branchement 
 
-![exemple de schema](medias/livestream_branchements.png)
+![exemple de schema](images/schema_bvranchemant.png)
 
 ## Matériel de scénographie requis
 
