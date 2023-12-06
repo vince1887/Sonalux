@@ -119,12 +119,9 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 
 ## Ressources humaines requises
-> Formaté en liste ou en lien vers un tableur Excel.
 
 * TTP, location de matériel
-* Personne X, performeuse
-* Etc.
-
+  
 ## Ressources spatiales requises (rangement et locaux)
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
@@ -166,7 +163,6 @@ Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:
 https://github.com/tim-montmorency/66B-modele_de_projet/issues
 
 ## Rôles et responsabilités des membres de l'équipe
-> Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors de rencontres d'équipe. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
 
 **Étudiant E**
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
