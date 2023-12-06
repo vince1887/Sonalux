@@ -112,7 +112,6 @@ Le public est appelé à découvrir les différents chapitres du projet.
 * TTP, location de matériel
   
 ## Ressources spatiales requises (rangement et locaux)
-> Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
 * Grand studio
     * Rétroprojection vidéo dans le grand studio
@@ -121,12 +120,13 @@ Le public est appelé à découvrir les différents chapitres du projet.
     * Enregsitrement audio de la naration
 
 ## Contraintes techniques et potentiels problèmes de production
-> Tableau ou lien vers un tableur Excel (contraintes, problème et solution envisagée, commentaires...)
 
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Nous n'avons jamais utilisé la caméra 360 degrés | Formation avec TTP, expérimentation durant la session | Sinon, nous pourrions tourner avec une caméra normale et ajuster notre projet en conséquence |
-|                                                  |                                                       |                                                                                              |
+| Apprendre et maîtriser un tout nouveau logiciel, soit TouchDesigner. | expérimentation durant la session |                                                                                              |
+| Apprendre a utiliser la kinect pour la captation live                | expérimentation durant la session + documentation sur le web|                                                                    |
+|Réaliser la boîte sonore et intégrer les différentes composantes, c’est-à-dire analogues (sortie audio) et électriques (microcontrôleurs). | acheter le matériels nécéssaire |
+|Relier la boîte au reste de l’installation.  | faire plusieurs itération de visuel pour que le visuel et le son se complémente et intéragissent bien |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
