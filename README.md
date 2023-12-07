@@ -176,8 +176,9 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMom
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
 
 **Antoine Haddad**
-- Installation de l'équipement dans l'espace physique
-- Coordination des projections/projecteurs
+- Installation de l'équipement dans l'espace physique.
+- Coordination des projections/projecteurs.
+- Création du boîtier interactif au milieu de l'installation.
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
