@@ -121,19 +121,19 @@ Le public est appelé à découvrir les différents chapitres du projet.
 
 ## Contraintes techniques et potentiels problèmes de production
 
-| Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
-|--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Apprendre et maîtriser un tout nouveau logiciel, soit TouchDesigner. | expérimentation durant la session |                                                                                              |
-| Apprendre a utiliser la kinect pour la captation live                | expérimentation durant la session + documentation sur le web|                                                                    |
-|Réaliser la boîte sonore et intégrer les différentes composantes, c’est-à-dire analogues (sortie audio) et électriques (microcontrôleurs). | acheter le matériels nécéssaire |
-|Relier la boîte au reste de l’installation.  | faire plusieurs itération de visuel pour que le visuel et le son se complémente et intéragissent bien |
+| Contrainte ou problème potentiel                                       | Solution envisagée                                                                                                                    
+|------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| Apprendre et maîtriser un tout nouveau logiciel, soit TouchDesigner.   | expérimentation durant la session |                                                                                              
+| Apprendre a utiliser la kinect pour la captation live                  | expérimentation durant la session + documentation sur le web|                                                                    
+|Réaliser la boîte sonore et intégrer les différentes composantes, 
+c’est-à-dire analogues (sortie audio) et électriques (microcontrôleurs). | acheter le matériels nécéssaire |
+|Relier la boîte au reste de l’installation.                             | faire plusieurs itération de visuel pour que le visuel et le son se complémente et intéragissent bien |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
 ![Budget prévisionnel](medias/budget_capture_20210113.PNG)
 
 [Lien vers document](https://cmontmorency365.sharepoint.com/:x:/s/TIM-58266B-Expriencemultimdiainteractive-Enseignants/ERS3zx4iKAlLn03N_0h3cyQBOV_nxNuKvrKnqmrXGcgDYg?e=Rjq9Uc)
-
 
 ## Échéancier global
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
@@ -153,44 +153,22 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues
 - Création du module d'interprétation des données (Kinect)
 - Programmation du patch touchdesigner de génération vidéo.
 
-Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
-
 **Camélie Laprise**
 
 - Coordination technique du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe)
-- Création des paysages sonores sonores
-- Programmation du module Max d'effet et de contrôle audio
+- Création des paysages sonores
+- Créations de visuels
 - Installation de l'équipement dans l'espace physique.
 
-Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
-
 **Ghita Alaoui**
-- 
-
-Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
+- Création de visuels
+- Mapping
+- Installation de l'équipement dans l'espace physique.
 
 **Antoine Haddad**
 - Installation de l'équipement dans l'espace physique.
 - Coordination des projections/projecteurs.
 - Création du boîtier interactif au milieu de l'installation.
-
-Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
-
-
-Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
-
-**Tâches pas encore attribuées**  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
