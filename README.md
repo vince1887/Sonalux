@@ -128,9 +128,7 @@ c’est-à-dire analogues (sortie audio) et électriques (microcontrôleurs). | 
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
-![Budget prévisionnel](medias/budget_capture_20210113.PNG)
-
-[Lien vers document](https://cmontmorency365.sharepoint.com/:x:/s/TIM-58266B-Expriencemultimdiainteractive-Enseignants/ERS3zx4iKAlLn03N_0h3cyQBOV_nxNuKvrKnqmrXGcgDYg?e=Rjq9Uc)
+Construire la boîte de sons et intégrer toutes ces différentes composantes servant à créer du son (150$)
 
 ## Rôles et responsabilités des membres de l'équipe
 
