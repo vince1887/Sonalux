@@ -116,9 +116,6 @@ Le public est appelé à découvrir les différents chapitres du projet.
 * Grand studio
     * Rétroprojection vidéo dans le grand studio
 
-* Petit studio
-    * Enregsitrement audio de la naration
-
 ## Contraintes techniques et potentiels problèmes de production
 
 | Contrainte ou problème potentiel                                       | Solution envisagée                                                                                                                    
