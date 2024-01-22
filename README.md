@@ -60,7 +60,7 @@ Le public est appelé à découvrir les différents chapitres du projet.
 ### Plantation 
 
 ![exemple de plantation](images/plantation.png)
-![exemple de plantation](images/table.png)
+![exemple de plantation](images/podium2.png)
 
 ### Schéma de branchement 
 
