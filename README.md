@@ -29,7 +29,7 @@
 # Intention ou concept
 
 ## Intention de départ
-Par ce projet, nous souhaitons pousser l'intéracteur à lâcher prise en créant soi-même un environnement immersif.
+Par ce projet, nous souhaitons pousser l'intéracteur à lâcher prise en se laissant flotter dans un monde immersif et interactif
 
 ## Synopsis
 Sonalux est une expérience divisée en 3 chapitres qui se distinguent par leur intensité graduelle. Chaque chapitre comportera différents éléments sonores et visuels accompagnés d'une introduction au tout début.  
